@@ -1,6 +1,6 @@
 spring:
   datasource:
-    driverClassName: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/microservice?useTimezone=true&serverTimezone=UTC
     username: gAmd0610@digamo0708#
     password: root
